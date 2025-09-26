@@ -1,4 +1,7 @@
-## Hi there 👋
+## hi, I'm emily
+- Usually writing hacky things in Progress OpenEdge ABL and python
+- forever learning
+
 
 <!--
 **alchEmily/alchEmily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
