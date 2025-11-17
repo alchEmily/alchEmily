@@ -1,6 +1,6 @@
 ## hi, I'm emily
 - Usually writing hacky things in Progress OpenEdge ABL and python
-- forever learning
+- forever ~~breaking things~~ learning
 
 
 <!--
