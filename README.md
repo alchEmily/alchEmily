@@ -1,7 +1,7 @@
 ## hi, I'm emily
 - Usually writing hacky things in Progress OpenEdge ABL and python
 - forever ~~breaking things~~ learning
-- I like books & meshtastic & lots of others things
+- I like books & amateur radio & meshtastic & lots of others things
 
 
 <!--
